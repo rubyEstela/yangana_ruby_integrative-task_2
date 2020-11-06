@@ -59,7 +59,7 @@ public class Menu {
 
 			break;
 		default:
-			System.out.println("Introduzca  nuevamente una opcion valida.");
+			System.out.println("Introduzca una opcion valida nuevamente.");
 
 			break;
 		}
