@@ -59,7 +59,7 @@ public class Menu {
 
 			break;
 		default:
-			System.out.println("Introduzca una opcion valida.");
+			System.out.println("Introduzca  nuevamente una opcion valida.");
 
 			break;
 		}
@@ -67,7 +67,7 @@ public class Menu {
 
 	public void tamanioArray() {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("ingrese su nickname");
+		System.out.println("ingrese su nickname ");
 		String nick = sc.nextLine();
 		System.out.println(" ingrese el tamaño de la filas");
 		int rowss = sc.nextInt();
